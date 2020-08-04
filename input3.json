@@ -1,0 +1,179 @@
+{
+	"title": "Some insights",
+	"summary": [
+		"4 Months",
+		"94 Questions",
+		"4450+ Votes",
+		"2,5 Man hours"
+	],
+	"categories": [
+		{
+			"name": "Social Support",
+			"questions": [
+				{
+					"Text": "I can see the good in people",
+					"YesPercentage": "100",
+					"YesBenchmark": "85"
+				},
+				{
+					"Text": "I could talk to my colleagues about a personal problem.",
+					"YesPercentage": "93",
+					"YesBenchmark": "65"
+				},
+				{
+					"Text": "If a colleague needed to talk about a personal problem, I would be there to listen.",
+					"YesPercentage": "95",
+					"YesBenchmark": "85"
+				},
+				{
+					"Text": "One of my colleagues has become a true friend.",
+					"YesPercentage": "77",
+					"YesBenchmark": "35"
+				},
+				{
+					"Text": "My manager appreciates me.",
+					"YesPercentage": "76",
+					"YesBenchmark": "85"
+				},
+				
+				{
+					"Text": "My colleagues say \"thank you\" when I do them a favour..",
+					"YesPercentage": "45",
+					"YesBenchmark": "35"
+				},
+				{
+					"Text": "My colleagues say \"thank you\" when I do them a favour..",
+					"YesPercentage": "45",
+					"YesBenchmark": "35"
+				},
+				{
+					"Text": "My colleagues say \"thank you\" when I do them a favour..",
+					"YesPercentage": "45",
+					"YesBenchmark": "35"
+				},
+				{
+					"Text": "My colleagues say \"thank you\" when I do them a favour..",
+					"YesPercentage": "45",
+					"YesBenchmark": "35"
+				},
+				{
+					"Text": "My colleagues say \"thank you\" when I do them a favour..",
+					"YesPercentage": "45",
+					"YesBenchmark": "35"
+				},
+				{
+					"Text": "My colleagues say \"thank you\" when I do them a favour..",
+					"YesPercentage": "45",
+					"YesBenchmark": "35"
+				},
+				{
+					"Text": "My colleagues say \"thank you\" when I do them a favour..",
+					"YesPercentage": "45",
+					"YesBenchmark": "35"
+				},
+				{
+					"Text": "My colleagues say \"thank you\" when I do them a favour..",
+					"YesPercentage": "45",
+					"YesBenchmark": "35"
+				},
+				{
+					"Text": "My colleagues say \"thank you\" when I do them a favour..",
+					"YesPercentage": "45",
+					"YesBenchmark": "35"
+				},
+				{
+					"Text": "My colleagues say \"thank you\" when I do them a favour..",
+					"YesPercentage": "45",
+					"YesBenchmark": "35"
+				},
+				{
+					"Text": "My colleagues say \"thank you\" when I do them a favour..",
+					"YesPercentage": "45",
+					"YesBenchmark": "35"
+				},
+				{
+					"Text": "My colleagues say \"thank you\" when I do them a favour..",
+					"YesPercentage": "45",
+					"YesBenchmark": "35"
+				},
+				{
+					"Text": "My colleagues say \"thank you\" when I do them a favour..",
+					"YesPercentage": "45",
+					"YesBenchmark": "35"
+				},
+				{
+					"Text": "My colleagues say \"thank you\" when I do them a favour..",
+					"YesPercentage": "45",
+					"YesBenchmark": "35"
+				},
+				{
+					"Text": "My colleagues say \"thank you\" when I do them a favour..",
+					"YesPercentage": "45",
+					"YesBenchmark": "35"
+				},
+				{
+					"Text": "My colleagues say \"thank you\" when I do them a favour..",
+					"YesPercentage": "45",
+					"YesBenchmark": "35"
+				},
+				{
+					"Text": "My colleagues say \"thank you\" when I do them a favour..",
+					"YesPercentage": "45",
+					"YesBenchmark": "35"
+				},
+				{
+					"Text": "My colleagues say \"thank you\" when I do them a favour..",
+					"YesPercentage": "45",
+					"YesBenchmark": "35"
+				},
+				{
+					"Text": "My colleagues say \"thank you\" when I do them a favour..",
+					"YesPercentage": "45",
+					"YesBenchmark": "35"
+				},
+				{
+					"Text": "My colleagues say \"thank you\" when I do them a favour..",
+					"YesPercentage": "45",
+					"YesBenchmark": "35"
+				},
+				{
+					"Text": "My colleagues say \"thank you\" when I do them a favour..",
+					"YesPercentage": "45",
+					"YesBenchmark": "35"
+				},
+				{
+					"Text": "My colleagues say \"thank you\" when I do them a favour..",
+					"YesPercentage": "45",
+					"YesBenchmark": "35"
+				},
+				{
+					"Text": "My colleagues say \"thank you\" when I do them a favour..",
+					"YesPercentage": "45",
+					"YesBenchmark": "35"
+				},
+				{
+					"Text": "My colleagues say \"thank you\" when I do them a favour..",
+					"YesPercentage": "45",
+					"YesBenchmark": "35"
+				},
+				{
+					"Text": "My colleagues say \"thank you\" when I do them a favour..",
+					"YesPercentage": "45",
+					"YesBenchmark": "35"
+				},
+				{
+					"Text": "My colleagues say \"thank you\" when I do them a favour..",
+					"YesPercentage": "45",
+					"YesBenchmark": "35"
+				}
+			]
+		}
+			
+		
+	],
+	"legend": {
+		"green": "Good",
+		"orange": "To be improved",
+		"blue": "No Benchmark"
+	}
+}

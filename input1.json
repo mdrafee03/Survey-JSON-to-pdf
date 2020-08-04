@@ -1,0 +1,158 @@
+{
+	"title": "Some insights",
+	"summary": [
+		"4 Months",
+		"94 Questions",
+		"4450+ Votes",
+		"2,5 Man hours"
+	],
+	"categories": [
+		{
+			"name": "Social Support",
+			"questions": [
+				{
+					"Text": "I can see the good in people",
+					"YesPercentage": "100",
+					"YesBenchmark": "85"
+				},
+				{
+					"Text": "I could talk to my colleagues about a personal problem.",
+					"YesPercentage": "93",
+					"YesBenchmark": "65"
+				},
+				{
+					"Text": "If a colleague needed to talk about a personal problem, I would be there to listen.",
+					"YesPercentage": "95",
+					"YesBenchmark": "85"
+				},
+				{
+					"Text": "One of my colleagues has become a true friend.",
+					"YesPercentage": "77",
+					"YesBenchmark": "35"
+				},
+				{
+					"Text": "My manager appreciates me.",
+					"YesPercentage": "76",
+					"YesBenchmark": "85"
+				},
+				{
+					"Text": "My colleagues say \"thank you\" when I do them a favour..",
+					"YesPercentage": "45",
+					"YesBenchmark": "35"
+				}
+			]
+		},
+		{
+			"name": "Culture",
+			"questions": [
+				{
+					"Text": "When I talk about my company I refer to it as a \"We\" (ex: we did that project).",
+					"YesPercentage": "95",
+					"YesBenchmark": "85"
+				},
+				{
+					"Text": "I know my company's core values.",
+					"YesPercentage": "84",
+					"YesBenchmark": "65"
+				},
+				{
+					"Text": "Results are more important than efforts.",
+					"YesPercentage": "38"
+				}
+			]
+		},
+		{
+			"name": "Health & Well-Being",
+			"questions": [
+				{
+					"Text": "People clean up after themselves in the common areas.",
+					"YesPercentage": "18",
+					"YesBenchmark": "15"
+				},
+				{
+					"Text": "I'm often disturbed by people talking next to my desk while I'm working.",
+					"YesPercentage": "83",
+					"YesBenchmark": "85"
+				},
+				{
+					"Text": "Keeping my workplace clean and tidy is important to me.",
+					"YesPercentage": "83",
+					"YesBenchmark": "45"
+				},
+				{
+					"Text": "I often forget to stay hydrated at work.",
+					"YesPercentage": "53",
+					"YesBenchmark": "45"
+				}
+			]
+		},
+		{
+			"name": "Profile",
+			"questions": [
+				{
+					"Text": "I usually ask again when I don't understand the first time.",
+					"YesPercentage": "98",
+					"YesBenchmark": "15"
+				},
+				{
+					"Text": "I would love to spend a working day on volunteering activity.",
+					"YesPercentage": "78"
+				},
+				{
+					"Text": "I would also like to ask questions to my colleagues via the VoxCollector.",
+					"YesPercentage": "49"
+				}
+			]
+		},
+		{
+			"name": "Leadership",
+			"questions": [
+				{
+					"Text": "My employer stimulates interactions between the different teams.",
+					"YesPercentage": "63",
+					"YesBenchmark": "15"
+				},
+				{
+					"Text": "My manager takes my feedback seriously.",
+					"YesPercentage": "81",
+					"YesBenchmark": "15"
+				},
+				{
+					"Text": "The management is accessible and approachable.",
+					"YesPercentage": "67",
+					"YesBenchmark": "75"
+				}
+			]
+		},
+		{
+			"name": "Energy",
+			"questions": [
+				{
+					"Text": "I will smile to the next person I see.",
+					"YesPercentage": "88",
+					"YesBenchmark": "15"
+				},
+				{
+					"Text": "I have a good work/life balance.",
+					"YesPercentage": "38",
+					"YesBenchmark": "45"
+				},
+				{
+					"Text": "I feel optimistic most of the time.",
+					"YesPercentage": "81",
+					"YesBenchmark": "45"
+				},
+				{
+					"Text": "I am proud of what I do here.",
+					"YesPercentage": "94",
+					"YesBenchmark": "45"
+				}
+			]
+		}		
+	],
+	"legend": {
+		"green": "Good",
+		"orange": "To be improved",
+		"blue": "No Benchmark"
+	}
+}
