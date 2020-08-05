@@ -56,6 +56,31 @@
 					"YesBenchmark": "65"
 				},
 				{
+					"Text": "When I talk about my company I refer to it as a \"We\" (ex: we did that project).",
+					"YesPercentage": "95",
+					"YesBenchmark": "85"
+				},
+				{
+					"Text": "When I talk about my company I refer to it as a \"We\" (ex: we did that project).",
+					"YesPercentage": "95",
+					"YesBenchmark": "85"
+				},
+				{
+					"Text": "I know my company's core values.",
+					"YesPercentage": "84",
+					"YesBenchmark": "85"
+				},
+				{
+					"Text": "I know my company's core values.",
+					"YesPercentage": "84",
+					"YesBenchmark": "65"
+				},
+				{
+					"Text": "I know my company's core values.",
+					"YesPercentage": "84",
+					"YesBenchmark": "65"
+				},
+				{
 					"Text": "Results are more important than efforts.",
 					"YesPercentage": "38"
 				}
@@ -85,70 +110,7 @@
 					"YesBenchmark": "45"
 				}
 			]
-		},
-		{
-			"name": "Profile",
-			"questions": [
-				{
-					"Text": "I usually ask again when I don't understand the first time.",
-					"YesPercentage": "98",
-					"YesBenchmark": "15"
-				},
-				{
-					"Text": "I would love to spend a working day on volunteering activity.",
-					"YesPercentage": "78"
-				},
-				{
-					"Text": "I would also like to ask questions to my colleagues via the VoxCollector.",
-					"YesPercentage": "49"
-				}
-			]
-		},
-		{
-			"name": "Leadership",
-			"questions": [
-				{
-					"Text": "My employer stimulates interactions between the different teams.",
-					"YesPercentage": "63",
-					"YesBenchmark": "15"
-				},
-				{
-					"Text": "My manager takes my feedback seriously.",
-					"YesPercentage": "81",
-					"YesBenchmark": "15"
-				},
-				{
-					"Text": "The management is accessible and approachable.",
-					"YesPercentage": "67",
-					"YesBenchmark": "75"
-				}
-			]
-		},
-		{
-			"name": "Energy",
-			"questions": [
-				{
-					"Text": "I will smile to the next person I see.",
-					"YesPercentage": "88",
-					"YesBenchmark": "15"
-				},
-				{
-					"Text": "I have a good work/life balance.",
-					"YesPercentage": "38",
-					"YesBenchmark": "45"
-				},
-				{
-					"Text": "I feel optimistic most of the time.",
-					"YesPercentage": "81",
-					"YesBenchmark": "45"
-				},
-				{
-					"Text": "I am proud of what I do here.",
-					"YesPercentage": "94",
-					"YesBenchmark": "45"
-				}
-			]
-		}		
+		}
 	],
 	"legend": {
 		"green": "Good",
